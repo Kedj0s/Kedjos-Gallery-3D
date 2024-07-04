@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model 1 Details</title>
+</head>
+<body>
+    <h1>Model 1</h1>
+    <img src="model1.jpg" alt="Model 1" style="width:100%; height:auto;">
+    <p>Description of Model 1</p>
+    <a href="model1-file.zip" download>Download Model 1</a>
+</body>
+</html>
